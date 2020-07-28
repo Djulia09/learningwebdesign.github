@@ -1,4 +1,4 @@
-# learningwebdesign.github
+# learningwebdesign.github.io
 Just a page for tests 
 <!DOCTYPE html>
 <html lang="en">
